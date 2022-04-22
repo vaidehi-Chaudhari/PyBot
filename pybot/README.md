@@ -1,4 +1,4 @@
-# PyBot-A-ChatBot-For-Answering-Python-Queries
+# PyBot-A-ChatBot-For-Answering-Health-Care-Queries
 
 Screenshot of pybot with hacker theme
 
