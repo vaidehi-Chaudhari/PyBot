@@ -2,4 +2,5 @@
 
 Screenshot of pybot with hacker theme
 
-![img](https://user-images.githubusercontent.com/29656920/57013163-dc79b980-6c27-11e9-9360-d9b59e6a8c26.png)
+
+![screenshot](https://user-images.githubusercontent.com/68850091/170807730-8f9082e0-81a0-4952-af3c-8bb2ad4537a8.jpg)
